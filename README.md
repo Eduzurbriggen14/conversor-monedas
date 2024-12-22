@@ -1,4 +1,4 @@
-CONVERSOS DE MONEADAS
+CONVERSOR DE MONEADAS
 
 En este proyecto realizamos la conversion de una moneda base (por ejemplo USD) hacia otra moneda especifica
 1USD -> 1025.55 ARS
