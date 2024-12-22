@@ -7,4 +7,4 @@ Para obtener el tipo de cambio, se realiza una consulta a la api [ExchangeRate-A
 
 Luego realizamos el calculo del tipo de cambio obtenido por el monto de la moneda base. 
 
-
+[![Foto1](https://i.postimg.cc/PrQLFW6z/Captura-de-pantalla-462.png)](https://postimg.cc/Vd5LJCPd)
